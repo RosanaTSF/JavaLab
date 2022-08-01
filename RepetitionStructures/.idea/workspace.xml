@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="794b2479-40dc-45d2-9c3b-d26ff6cb77de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Repetition Structures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moreAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nameAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/table.java" afterDir="false" />
-    </list>
+    <list default="true" id="794b2479-40dc-45d2-9c3b-d26ff6cb77de" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
